@@ -1,0 +1,32 @@
+{
+	"name": "RAK12029-LDC1614",
+	"version": "1.0.0",
+	"keywords": [
+		"Inductivity",
+		"LDC1614",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12029"
+	],
+	"description": "RAKWireless library for the RAK12029 Induction Sensor module",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK12029-LDC1614"
+	},
+	"homepage": "https://rakwireless.com"
+}

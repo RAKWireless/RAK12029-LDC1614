@@ -1,0 +1,37 @@
+  
+#######################################
+# Syntax Coloring Map For Seeed Inductive Sensor LDC1614
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+KEYWORD1    RAK12029_LDC1614_Inductive
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+KEYWORD2    LDC1614_init
+KEYWORD2    LDC1614_get_channel_result
+KEYWORD2    LDC1614_set_conversion_time
+KEYWORD2    LDC1614_set_LC_stabilize_time
+KEYWORD2    LDC1614_set_conversion_offset
+KEYWORD2    LDC1614_get_sensor_status
+KEYWORD2    LDC1614_set_ERROR_CONFIG
+KEYWORD2    LDC1614_set_sensor_config
+KEYWORD2    LDC1614_set_mux_config
+KEYWORD2    LDC1614_reset_sensor
+KEYWORD2    LDC1614_set_driver_current
+KEYWORD2    LDC1614_set_FIN_LDC1614_Fref_DIV
+KEYWORD2    LDC1614_single_channel_config
+KEYWORD2    LDC1614_mutiple_channel_config
+KEYWORD2    LDC1614_reset_sensor
+KEYWORD2    LDC1614_set_driver_current
+KEYWORD2    LDC1614_set_FIN_LDC1614_Fref_DIV
+KEYWORD2    LDC1614_select_channel_to_convert
+KEYWORD2    LDC1614_set_FIN_LDC1614_Fref_DIV
+
+#######################################
+# Constants (LITERAL1)
+#######################################
